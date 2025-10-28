@@ -30,7 +30,8 @@ To create Student Enrollment System software that will meet the needs of the app
 
 
 # COMMUNICATION DIAGRAM:
-![Uploading image.png…]()
+<img width="1307" height="923" alt="image" src="https://github.com/user-attachments/assets/e640823c-902d-498d-9214-ce90fa74f04c" />
+
 
 
 
